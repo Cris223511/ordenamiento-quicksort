@@ -3,7 +3,7 @@
 <i><p aligh="justify">
 ¿Qué es QuickSort?
 
-El ordenamiento por partición (Quick Sort) se puede definir en una forma más conveniente como procedimiento recursivo. Tiene
+El ordenamiento por partición (QuickSort) se puede definir en una forma más conveniente como procedimiento recursivo. Tiene
 aparentemente la propiedad de trabajar mejor para elementos de entrada desordenados completamente, que para elementos
 semiordenados. Esta situación es p recisamente la opuesta al ordenamiento conocido como de "burbuja". Hay unos ciertos puntos
 que es importante conocer de este ordenamiento, de las cuales son las siguientes:
