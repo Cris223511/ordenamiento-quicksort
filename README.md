@@ -1,5 +1,5 @@
 <i>
-    <h2 align="center">QuickSort sorting</h2><br>
+    <h2 align="center">QuickSort sorting</h2>
     <p align="center">The quick sorting algorithm applied to a list of random numbers.</p>
 </i>
 
@@ -25,7 +25,8 @@
 
 ---
 
-<p aligh="justify"><h2 align="center">Socials</h2></p>
+<img width="120" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
+<h2 align="center">Socials</h2></p>
 <i><p align="center">We invite you to visit my social networks, I would really appreciate it.</p></i>
   
 <p align="center">
