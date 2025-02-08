@@ -1,7 +1,5 @@
-<i>
-    <h2 align="center">Ordenamiento QuickSort</h2>
-    <h5 align="center">El ordenamiento rápido sobre una lista de números aleatorios.</h5>
-</i>
+<h2 align="center">Ordenamiento QuickSort</h2>
+<h5 align="center">El ordenamiento rápido sobre una lista de números aleatorios.</h5>
 
 <i>
   <p align="justify">
