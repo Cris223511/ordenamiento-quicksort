@@ -1,6 +1,6 @@
 <i>
-    <h2 align="center">## QuickSort Sorting</h2>
-    <p align="center">The quick sorting algorithm applied to a list of random numbers.</p>
+    <h2 align="center">Ordenamiento QuickSort</h2>
+    <p align="center">El ordenamiento rápido sobre una lista de números aleatorios.</p>
 </i>
 
 <i>
